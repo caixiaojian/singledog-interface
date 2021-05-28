@@ -11,6 +11,30 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "Singledog Busd",
+      "symbol": "BUSD",
+      "address": "0x81f66bca59D427aa94ABb1606B7f9DBAc53E1FBF",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Singledog DOGE",
+      "symbol": "DOGE",
+      "address": "0x637d5c3DA65BFf63265771c8dE37fE3adb9E336e",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/DICE.png"
+    },
+    {
+      "name": "Singledog SDOG",
+      "symbol": "SDOG",
+      "address": "0xC412c6F351dB9e9A491d50811E438Ac8770A6f24",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/SDOG.png"
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
